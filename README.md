@@ -1,4 +1,4 @@
-*Trabalho: Banco de Dados + API em C#
+**Trabalho: Banco de Dados + API em C#**
 
 Alunas: Carolina Marques Vinhal de Carvalho, RA-22303413 e Leticia Seto, RA-22306613
 
